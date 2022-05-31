@@ -7,7 +7,7 @@ cliente comum (1), funcionário (2) ou vip (3).
 
  */
 import java.util.Scanner;
-public class Switch {
+public class EstruturaSwitch {
     public static void main(String[] args) {
 
         Scanner leitor = new Scanner(System.in);

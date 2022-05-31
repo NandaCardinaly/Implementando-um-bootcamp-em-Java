@@ -14,7 +14,7 @@ package treinando.estruturadeSelecao;
 
  */
 import java.util.Scanner;
-public class IfElse {
+public class EstruturaIfElse {
     public static void main(String[] args) {
 
 
