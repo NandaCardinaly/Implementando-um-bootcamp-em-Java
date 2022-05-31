@@ -25,3 +25,16 @@ public class EstruturaWhile {
     }
     }
 }
+/*
+DO - WHILE
+do{
+  //instruções a serem executadas, o bloco de instrução será executado no mínimo uma única vez.
+}while(True)
+
+int i = 0;
+do{
+
+}while(i !=0 ); //Veja que a condição contida na instrução WHILE não será verdadeira, porém, ]
+ainda assim, o bloco terá sido executado por no mínimo uma vez.
+
+ */
